@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Athira, a passionate PHP Developer on a journey to expand my horizons in cybersecurity. 👨‍💻🌐
 
 <!--
 **AthiraBR/AthiraBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
