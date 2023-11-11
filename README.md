@@ -1,6 +1,8 @@
+![logo](https://github.com/AthiraBR/AthiraBR/assets/87892369/333c43cd-3ad1-436f-8f94-3c6cb7c1be43)
+
 ### Hi there 👋
 
-I am Athira, a passionate PHP Developer on a journey to expand my horizons in cybersecurity. 👨‍💻🌐
+Welcome to my GitHub portfolio, where you can explore my work and projects as a cybersecurity enthusiast. 👨‍💻🌐
 
 ### 💼 Current Role
 
